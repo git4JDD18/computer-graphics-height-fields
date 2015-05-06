@@ -761,3 +761,4 @@ int _tmain(int argc, _TCHAR* argv[])
 	glEnable(GL_DEPTH_TEST);
 	glutMainLoop();
 	return 0;
+}
